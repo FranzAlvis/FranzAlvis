@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=👋+Hola%2C+soy+Franz+Reinaldo+Alvis+Cornejo;🏆+Campe%C3%B3n+Nacional+de+Ciberseguridad+2023+%26+2024;🧑‍💻+Ingeniero+de+Sistemas+y+Pentester;👨‍🏫+Docente+Universitario+y+de+Instituto" alt="Typing SVG" />
-  
+  <h1 style="color:#ff4081; animation: fadeIn 2s ease-in-out;">👋 ¡Hola, soy <span style="color:#7f5af0;">Franz Reinaldo Alvis Cornejo</span>!</h1>
+
   <p style="color:#6c757d; font-size: 18px;">
     🧑‍💻 <b>Ingeniero de Sistemas</b> · <b>Técnico Superior en Informática</b> <br/>
     🥇 <b>Campeón Nacional de Ciberseguridad Bolivia</b> (2023 & 2024) <br/>
@@ -11,7 +11,7 @@
 
 ## 🧠 Sobre mí
 
-Apasionado por la tecnología, con enfoque en **Ciberseguridad**, **Desarrollo Fullstack** y **Pentesting**.  
+Apasionado por la tecnología, con enfoque en **Ciberseguridad** y **Desarrollo Fullstack**.  
 Me encanta **enseñar**, **competir** y crear soluciones que generan impacto real.
 
 ---
@@ -49,7 +49,7 @@ Me encanta **enseñar**, **competir** y crear soluciones que generan impacto rea
 ## 📫 Contacto
 
 <p align="center">
-  <a href="https://linkedin.com/in/franzalvis">
+  <a href="https://linkedin.com/in/franzalviscornejo">
     <img src="https://img.shields.io/badge/LinkedIn-Franz%20Alvis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/FranzAlvis">
