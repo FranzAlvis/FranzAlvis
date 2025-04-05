@@ -1,10 +1,9 @@
 <div align="center">
-  <h1 style="color:#ff4081; animation: fadeIn 2s ease-in-out;">👋 ¡Hola, soy <span style="color:#7f5af0;">Franz Reinaldo Alvis Cornejo</span>!</h1>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=👋+Hola%2C+soy+Franz+Reinaldo+Alvis+Cornejo;🏆+Campe%C3%B3n+Nacional+de+Ciberseguridad+2023+%26+2024;🧑‍💻+Ingeniero+de+Sistemas+y+Pentester;👨‍🏫+Docente+Universitario+y+de+Instituto" alt="Typing SVG" />
+  
   <p style="color:#6c757d; font-size: 18px;">
     🧑‍💻 <b>Ingeniero de Sistemas</b> · <b>Técnico Superior en Informática</b> <br/>
     🥇 <b>Campeón Nacional de Ciberseguridad Bolivia</b> (2023 & 2024) <br/>
-    👨‍🏫 <b>Docente universitario e instructor</b> en institutos tecnológicos
   </p>
 </div>
 
@@ -43,8 +42,7 @@ Me encanta **enseñar**, **competir** y crear soluciones que generan impacto rea
 ## 🏆 Logros Destacados
 
 - 🥇 <b>Campeón Nacional de Ciberseguridad Bolivia – Gestión 2023</b>  
-- 🥇 <b>Campeón Nacional de Ciberseguridad Bolivia – Gestión 2024</b>  
-- 🎓 <b>Docente</b> en universidad e instituto en áreas de desarrollo y ciberseguridad  
+- 🥇 <b>Campeón Nacional de Ciberseguridad Bolivia – Gestión 2024</b> 
 
 ---
 
@@ -64,7 +62,5 @@ Me encanta **enseñar**, **competir** y crear soluciones que generan impacto rea
 > 🧠 *“No hay parche para la estupidez humana.”* — Franz Alvis Cornejo
 
 ---
-
-<!-- Opcional: Agrega esto si quieres movimiento real o animaciones, puedes hacer gifs o banners -->
 
 <!-- Puedes agregar una imagen tipo banner arriba o usar un generador de GitHub stats -->
