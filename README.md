@@ -59,7 +59,7 @@ Me encanta **enseñar**, **competir** y crear soluciones que generan impacto rea
 
 ---
 
-> 🧠 *“No hay parche para la estupidez humana.”* — Franz Alvis Cornejo
+> 🧠 *“No hay parche para la estupidez humana.”* 
 
 ---
 
