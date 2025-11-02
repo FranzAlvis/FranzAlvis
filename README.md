@@ -1,6 +1,4 @@
 <div align="center">
-  
-  <img src="https://private-user-images.githubusercontent.com/168954568/352051914-e26d1d6a-30ee-488e-90ca-11b3aa180148.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjIxMDY0MjksIm5iZiI6MTc2MjEwNjEyOSwicGF0aCI6Ii8xNjg5NTQ1NjgvMzUyMDUxOTE0LWUyNmQxZDZhLTMwZWUtNDg4ZS05MGNhLTExYjNhYTE4MDE0OC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEwMlQxNzU1MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00YWQxNGJhZDQxMjE4OGY0NDBhMTE1ZDk5OGI3YzA2ZTNkYTJkM2QxM2M3M2MwMjJiYzk2MDM2YzhjZjg2ZmZiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.tiCPrdDPIEQ8MPCUxH9bzn_tYsj9S13Kmw1Ph17b_JE" width="100%" alt="Hacking Banner"/>
 
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Franz+Reinaldo+Alvis+Cornejo;Penetration+Tester;Cybersecurity+Champion;Ethical+Hacker" alt="Typing SVG" />
@@ -84,7 +82,7 @@ achievements = {
     "2023": "🥇 Campeón Nacional de Ciberseguridad Bolivia",
     "2024": "🥇 Campeón Nacional de Ciberseguridad Bolivia (Tutor)",
     "2025": "🥇 Campeón Nacional de Ciberseguridad Bolivia (Tutor)",
-    "CTFs": "Participante activo en competencias internacionales",
+    "CTFs": "Participante activo en competencias",
     "Teaching": "Mentor en ciberseguridad ofensiva"
 }
 
@@ -156,7 +154,3 @@ for year, achievement in achievements.items():
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Hacking!&fontSize=40&fontColor=fff&animation=twinkling"/>
-</div>
