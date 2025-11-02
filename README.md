@@ -3,7 +3,7 @@
 
   <p style="color:#6c757d; font-size: 18px;">
     🧑‍💻 <b>Ingeniero de Sistemas</b> · <b>Técnico Superior en Informática</b> <br/>
-    🥇 <b>Campeón Nacional de Ciberseguridad Bolivia</b> (2023 & 2024) <br/>
+    🥇 <b>Campeón Nacional de Ciberseguridad Bolivia</b> (2023, 2024 & 2025) <br/>
   </p>
 </div>
 
