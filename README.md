@@ -134,9 +134,6 @@ for year, achievement in achievements.items():
   <a href="https://github.com/FranzAlvis">
     <img src="https://img.shields.io/badge/GitHub-Franz%20Alvis-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:franz.alvis@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
