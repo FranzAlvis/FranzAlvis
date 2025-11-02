@@ -42,7 +42,8 @@ Me encanta **enseñar**, **competir** y crear soluciones que generan impacto rea
 ## 🏆 Logros Destacados
 
 - 🥇 <b>Campeón Nacional de Ciberseguridad Bolivia – Gestión 2023</b>  
-- 🥇 <b>Campeón Nacional de Ciberseguridad Bolivia – Gestión 2024 (Tutor)</b> 
+- 🥇 <b>Campeón Nacional de Ciberseguridad Bolivia – Gestión 2024 (Tutor)</b>
+- 🥇 <b>Campeón Nacional de Ciberseguridad Bolivia – Gestión 2025 (Tutor)</b> 
 
 ---
 
