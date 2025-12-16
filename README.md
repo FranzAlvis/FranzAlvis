@@ -37,7 +37,7 @@ Me encanta **enseñar**, **competir en CTFs** y descubrir vulnerabilidades antes
 | Certificación | Estado | Año |
 |--------------|--------|-----|
 | 🔴 **eCPPTv3** (eLearnSecurity Certified Professional Penetration Tester) | ✅ Certificado | 2025 |
-| 🔴 **eWPTXv3** (eLearnSecurity Web Application Penetration Tester eXtreme) | 🎯 En progreso | 2025 |
+| 🔴 **eWPTXv3** (eLearnSecurity Web Application Penetration Tester eXtreme) | ✅ Certificado | 2025 |
 | 🔴 **OSCP** (Offensive Security Certified Professional) | 📋 Objetivo a largo plazo | Future |
 
 </div>
