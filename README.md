@@ -38,6 +38,8 @@ Me encanta **enseñar**, **competir en CTFs** y descubrir vulnerabilidades antes
 |--------------|--------|-----|
 | 🔴 **eCPPTv3** (eLearnSecurity Certified Professional Penetration Tester) | ✅ Certificado | 2025 |
 | 🔴 **eWPTXv3** (eLearnSecurity Web Application Penetration Tester eXtreme) | ✅ Certificado | 2025 |
+| 🔴 **CPENT** (Certified Penetration Testing Professional) | ✅ Certificado | 2026 |
+| 🔴 **LPT MASTER** ((Licensed Penetration Tester) Master) | ✅ Certificado | 2026 |
 | 🔴 **OSCP** (Offensive Security Certified Professional) | 📋 Objetivo a largo plazo | Future |
 
 </div>
